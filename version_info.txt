@@ -1,0 +1,2 @@
+v1.0
+convert VOTT output file to ImageJ input file (.json -> .txt)
